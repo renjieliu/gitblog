@@ -1,2 +1,2 @@
 # gitblog
-My tech blogs on GitHub
+My tech blogs hosted on GitHub - https://github.com/renjieliu/gitblog
